@@ -340,6 +340,7 @@ li {
 }
 
 .dress__item img {
+    width: 100%;
     position: relative;
 }
 
@@ -379,6 +380,7 @@ li {
 /* --- etc --- */
 
 .navbar-toggler {
+    border: none;
     display: none;
 }
 
